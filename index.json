@@ -48,6 +48,12 @@
       "description": "Jab user \"image bana do / AI se photo generate karo\" bole to ChatGPT app se sub-agent se image banwa ke download karna",
       "file": "skills/chatgpt-image-gen.md",
       "updated": "2026-07-24"
+    },
+    {
+      "name": "liger",
+      "description": "Personal assistant skill configured for Sulaimansk to handle daily task workflows.",
+      "file": "skills/liger.md",
+      "updated": "2026-08-16"
     }
   ]
 }
